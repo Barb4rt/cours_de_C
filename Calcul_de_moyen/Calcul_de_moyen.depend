@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1636467585 source:/home/ludwig/Calcul_de_moyen/main.c
+	<stdio.h>
+	<stdlib.h>
+	"MoyenneTableau.h"
+	"CreeUnFichier.h"
+
+1636383075 /home/ludwig/Calcul_de_moyen/MoyenneTableau.h
+
+1636453769 source:/home/ludwig/Calcul_de_moyen/MoyenneTableau.c
+	<stdlib.h>
+	<stdio.h>
+	"MoyenneTableau.h"
+
+1636459649 source:/home/ludwig/Calcul_de_moyen/CreeUnFichier.c
+	<stdio.h>
+
+1636456215 /home/ludwig/Calcul_de_moyen/CreeUnFichier.h
+

@@ -1,0 +1,1 @@
+int creeUnFichier(int fichier);

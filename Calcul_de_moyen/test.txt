@@ -1,0 +1,21 @@
+
+ note 1 : 15 
+ note 2 : 4 
+ note 3 : 8 
+ note 4 : 6 
+
+ Moyenne des notes 0.000000 
+
+ note 1 : 8 
+ note 2 : 4 
+ note 3 : 6 
+ note 4 : 6 
+
+ Moyenne des notes 0.000000 
+
+ note 1 : 1 
+ note 2 : 8 
+ note 3 : 6 
+ note 4 : 6 
+
+ Moyenne des notes 0.000000 
